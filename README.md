@@ -1,2 +1,2 @@
 # assignment-files
-nbgrader header files
+nbgrader header picture files
